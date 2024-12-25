@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "001ead3e032b437c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b83669cbd277f6b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df32cd64558eb407",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Course/MIT6.5840v24w/attachments/raft fig6 log.png"
+              },
+              "icon": "lucide-image",
+              "title": "raft fig6 log"
+            }
+          },
+          {
+            "id": "55bf308f560b2baa",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Course/MIT6.5840v24w/attachments/raft fig8 time sequence.png"
+              },
+              "icon": "lucide-image",
+              "title": "raft fig8 time sequence"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a921589ea33fb728",
+    "type": "split",
+    "children": [
+      {
+        "id": "81d50507c5cb1666",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f12f3294e469161",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e3cae505df1b18d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8468abb3e9d87e93",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "55ddebd4f419c7af",
+    "type": "split",
+    "children": [
+      {
+        "id": "3984ca2d5de4f635",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bfae6773dc4f22a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Template/Timestamp.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Timestamp"
+            }
+          },
+          {
+            "id": "90d6eb29484fc587",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Template/Timestamp.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Timestamp"
+            }
+          },
+          {
+            "id": "ae10c754629c5643",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7e6a798dc61b9426",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Template/Timestamp.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Timestamp"
+            }
+          },
+          {
+            "id": "b3baa83498bd0823",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "88cd4c1bec5460f1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "4f12f3294e469161",
+  "lastOpenFiles": [
+    "Course/MIT6.5840v24w/attachments/raft fig1 replicated state machine arch.png",
+    "Course/MIT6.5840v24w/Minimum understandings to implement the project.md",
+    "Course/MIT6.5840v24w/raft-extended.pdf",
+    "Course/MIT6.5840v24w/attachments/raft fig8 time sequence.png",
+    "Course/MIT6.5840v24w/attachments",
+    "Game/Year 2025 List/Year 2025 List.md",
+    "Vault Improvements.md",
+    "Timestamp/2024/12-December/2024-12-25-Wednesday.md",
+    "Game/Year 2025 List/东方夜雀食堂.md",
+    "Template/Timestamp.md",
+    "Course/MIT6.5840v24w/attachments/raft fig2 request vote.png",
+    "Course/MIT6.5840v24w/attachments/raft fig2 rules for server.png",
+    "Course/MIT6.5840v24w/attachments/raft fig4 server states.png",
+    "Course/MIT6.5840v24w/attachments/raft fig2 append entries.png",
+    "Course/MIT6.5840v24w/attachments/raft fig5 timeline.png",
+    "Course/MIT6.5840v24w/attachments/raft fig6 log.png",
+    "Course/CMU15-455v24fa/slides/18-timestampordering.pdf",
+    "Course/CMU15-455v24fa/notes/18-timestampordering.pdf",
+    "Course/CMU15-455v24fa/slides",
+    "Course/CMU15-455v24fa/Project.md",
+    "Course/CMU15-455v24fa/notes",
+    "Course/CMU15-455v24fa",
+    "Course/MIT6.5840v24w",
+    "Course",
+    "Template/Template.md",
+    "Games/Year 2025 List/Year 2025 List.md",
+    "Timestamp/2024/2024.canvas",
+    "Games/Games.canvas",
+    "Timestamp/2024/12-December/12-December.canvas",
+    "Timestamp/Timestamp.canvas",
+    "Game/Year 2025 List",
+    "Welcome.md",
+    "+Daily Notes.md"
+  ]
+}

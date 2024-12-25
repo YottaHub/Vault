@@ -1,0 +1,6 @@
+{
+  "format": "YYYY/MM-MMMM/YYYY-MM-DD-dddd",
+  "autorun": true,
+  "folder": "Timestamp",
+  "template": ""
+}
